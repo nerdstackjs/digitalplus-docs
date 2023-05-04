@@ -1,1 +1,1 @@
-# digitalplus-docs
+# Navigate to wiki to view docs 
